@@ -1,4 +1,4 @@
-# GongGanMutul Project
+# GongGanMutual Project
 
 ## Frontend
 - React 기반 UI
